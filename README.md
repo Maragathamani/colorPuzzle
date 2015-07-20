@@ -15,25 +15,3 @@ must be identical to the bottom row, and there are no constraints on the middle 
 2. Then run the source file.
 3. Then the output file will be in created in the desktop named "output.txt".
 
-# Sample Input
-
-b b r r w b r b r b b w r r e
-r b b r w b b b r b r e r w r
-b b r r b w r b r w b b e r r
-r r b b w r r b r b e r b w b
-b b r w r r b b b e r r r w b
-b w b b r r b b r b w r r e r
-b b r b w r b w r r b b e r r
-r b b w e r r r r b b r b w b
-w r b r r b w e b b r b b r r
-r b e b w r b b b r r w b r r
-r e r r b r r b b w b b w r b
-w e b b b r r b b r b r w r r
-r b w w b r r r b r b b r e b
-b r r b w r b r r e b w b b r
-b r b w b b r r r b b r w e r
-r r r b r w b b e r b r w b b
-r b w r r b e b b w r r r b b
-w r b b r b r r r e b b w r b
-
-Each letter indicates the first letter of the color. (eg: w - white)
